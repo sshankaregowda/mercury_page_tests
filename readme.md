@@ -13,7 +13,7 @@
 
 
 Steps to Run the Automation scripts
-1. Unzip the zipped repo sent in email
+1. git clone https://github.com/sshankaregowda/mercury_page_tests.git
 2. Navigate to project root directory
 3. npm install
 4. npm run test
