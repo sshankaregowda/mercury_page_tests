@@ -1,0 +1,5 @@
+{
+    "passengersDropdown": "//select[@name='passCount']",
+    "continueBtn": "//input[@name='findFlights']",
+    "noOfSeats": "table tbody tr td p font:nth-child(1)"
+}

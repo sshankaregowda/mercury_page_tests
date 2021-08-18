@@ -1,0 +1,4 @@
+{
+    "loginSuccessMsg": "table tbody tr td h3",
+    "flightsLink": "table tbody tr.mouseOut td a"
+}
