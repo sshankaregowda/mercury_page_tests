@@ -9,9 +9,11 @@
 * User can click on flights, select no of passengers and trip type
 * User can check the no of seats available
 
+* Note - I have written the script to add folder and files to it. But did not get a chance to upload files to web application, reason is could not find any such sample web application
+
 
 Steps to Run the Automation scripts
-1. Git clone 
+1. Unzip the zipped repo sent in email
 2. Navigate to project root directory
 3. npm install
-4. npm run test1
+4. npm run test
